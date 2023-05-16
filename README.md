@@ -32,3 +32,33 @@ For the chosen year provide,
 
 
 ![Dashboard](dashboard/1.PNG)
+
+
+
+
+
+![Dashboard Dropdown menu](dashboard/2.PNG)
+
+
+
+
+![Airport Flight Details](dashboard/4.PNG)
+
+
+
+
+![Airport Flight Delay](dashboard/5.PNG)
+
+
+
+
+![Airport Flight Details](dashboard/6a.PNG)
+
+
+
+
+![Airport Flight Details 2019](dashboard/6b.PNG)
+
+
+
+![Airport Flight Delay 2008](dashboard/6c.PNG)
